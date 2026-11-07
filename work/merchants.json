@@ -1,0 +1,300 @@
+{"merchant_id": "M-001", "name": "Hanout Salam Fes", "city": "Fes", "category": "epicerie", "latitude": 33.99259, "longitude": -5.04385}
+{"merchant_id": "M-002", "name": "Pharmacie Les Oliviers Casablanca", "city": "Casablanca", "category": "pharmacie", "latitude": 33.53179, "longitude": -7.59761}
+{"merchant_id": "M-003", "name": "Superette Nour Casablanca", "city": "Casablanca", "category": "epicerie", "latitude": 33.5833, "longitude": -7.58368}
+{"merchant_id": "M-004", "name": "Pharmacie du Marche Agadir", "city": "Agadir", "category": "pharmacie", "latitude": 30.39984, "longitude": -9.58917}
+{"merchant_id": "M-005", "name": "Mini Market Zahra Meknes", "city": "Meknes", "category": "epicerie", "latitude": 33.85947, "longitude": -5.56244}
+{"merchant_id": "M-006", "name": "Mini Market Zahra Rabat", "city": "Rabat", "category": "epicerie", "latitude": 34.00456, "longitude": -6.88233}
+{"merchant_id": "M-007", "name": "Station Sahara Casablanca", "city": "Casablanca", "category": "carburant", "latitude": 33.60381, "longitude": -7.56683}
+{"merchant_id": "M-008", "name": "Telecom Services Plus Tanger", "city": "Tanger", "category": "telecom", "latitude": 35.71738, "longitude": -5.85468}
+{"merchant_id": "M-009", "name": "Station Sahara Fes", "city": "Fes", "category": "carburant", "latitude": 34.02584, "longitude": -4.98734}
+{"merchant_id": "M-010", "name": "Hanout Salam Casablanca", "city": "Casablanca", "category": "epicerie", "latitude": 33.62162, "longitude": -7.55427}
+{"merchant_id": "M-011", "name": "Restaurant Al Medina Oujda", "city": "Oujda", "category": "restauration", "latitude": 34.70027, "longitude": -1.92492}
+{"merchant_id": "M-012", "name": "Hanout Salam Rabat", "city": "Rabat", "category": "epicerie", "latitude": 34.04108, "longitude": -6.82325}
+{"merchant_id": "M-013", "name": "LivrExpress.ma Casablanca", "city": "Casablanca", "category": "e-commerce", "latitude": 33.59601, "longitude": -7.62346}
+{"merchant_id": "M-014", "name": "Boutique Telecom Orbit Rabat", "city": "Rabat", "category": "telecom", "latitude": 34.03936, "longitude": -6.80731}
+{"merchant_id": "M-015", "name": "Epicerie Al Baraka Agadir", "city": "Agadir", "category": "epicerie", "latitude": 30.4583, "longitude": -9.60798}
+{"merchant_id": "M-016", "name": "Point Mobile Atlas Casablanca", "city": "Casablanca", "category": "telecom", "latitude": 33.54436, "longitude": -7.58988}
+{"merchant_id": "M-017", "name": "MarocMarket.ma Oujda", "city": "Oujda", "category": "e-commerce", "latitude": 34.66319, "longitude": -1.93674}
+{"merchant_id": "M-018", "name": "Superette Nour Tanger", "city": "Tanger", "category": "epicerie", "latitude": 35.75234, "longitude": -5.82565}
+{"merchant_id": "M-019", "name": "Boutique Telecom Orbit Rabat 2", "city": "Rabat", "category": "telecom", "latitude": 34.02185, "longitude": -6.88251}
+{"merchant_id": "M-020", "name": "Epicerie Al Amal Casablanca", "city": "Casablanca", "category": "epicerie", "latitude": 33.5391, "longitude": -7.57175}
+{"merchant_id": "M-021", "name": "Restaurant Al Medina Tanger", "city": "Tanger", "category": "restauration", "latitude": 35.76241, "longitude": -5.78689}
+{"merchant_id": "M-022", "name": "Epicerie Al Amal Oujda", "city": "Oujda", "category": "epicerie", "latitude": 34.64816, "longitude": -1.87292}
+{"merchant_id": "M-023", "name": "Pharmacie Centrale Agadir", "city": "Agadir", "category": "pharmacie", "latitude": 30.38896, "longitude": -9.60462}
+{"merchant_id": "M-024", "name": "Point Mobile Atlas Marrakech", "city": "Marrakech", "category": "telecom", "latitude": 31.67669, "longitude": -7.9549}
+{"merchant_id": "M-025", "name": "Epicerie Al Amal Marrakech", "city": "Marrakech", "category": "epicerie", "latitude": 31.60934, "longitude": -7.96721}
+{"merchant_id": "M-026", "name": "Mini Market Zahra Tanger", "city": "Tanger", "category": "epicerie", "latitude": 35.72565, "longitude": -5.78865}
+{"merchant_id": "M-027", "name": "Point Mobile Atlas Kenitra", "city": "Kenitra", "category": "telecom", "latitude": 34.25986, "longitude": -6.61901}
+{"merchant_id": "M-028", "name": "Point Mobile Atlas Rabat", "city": "Rabat", "category": "telecom", "latitude": 33.99485, "longitude": -6.86751}
+{"merchant_id": "M-029", "name": "Epicerie Al Amal Tanger", "city": "Tanger", "category": "epicerie", "latitude": 35.7581, "longitude": -5.87708}
+{"merchant_id": "M-030", "name": "Pharmacie Al Amal Agadir", "city": "Agadir", "category": "pharmacie", "latitude": 30.44378, "longitude": -9.55342}
+{"merchant_id": "M-031", "name": "LivrExpress.ma Casablanca 2", "city": "Casablanca", "category": "e-commerce", "latitude": 33.56541, "longitude": -7.61862}
+{"merchant_id": "M-032", "name": "Pharmacie Al Amal Tanger", "city": "Tanger", "category": "pharmacie", "latitude": 35.78079, "longitude": -5.8441}
+{"merchant_id": "M-033", "name": "Restaurant Al Medina Fes", "city": "Fes", "category": "restauration", "latitude": 33.9802, "longitude": -5.03533}
+{"merchant_id": "M-034", "name": "MarocMarket.ma Rabat", "city": "Rabat", "category": "e-commerce", "latitude": 34.02974, "longitude": -6.89088}
+{"merchant_id": "M-035", "name": "Epicerie Al Baraka Fes", "city": "Fes", "category": "epicerie", "latitude": 34.05864, "longitude": -4.97184}
+{"merchant_id": "M-036", "name": "Epicerie Al Amal Casablanca 2", "city": "Casablanca", "category": "epicerie", "latitude": 33.57164, "longitude": -7.58588}
+{"merchant_id": "M-037", "name": "Station Horizon Agadir", "city": "Agadir", "category": "carburant", "latitude": 30.4021, "longitude": -9.6008}
+{"merchant_id": "M-038", "name": "Epicerie Al Amal Marrakech 2", "city": "Marrakech", "category": "epicerie", "latitude": 31.62261, "longitude": -7.98874}
+{"merchant_id": "M-039", "name": "Pharmacie Ibn Sina Marrakech", "city": "Marrakech", "category": "pharmacie", "latitude": 31.58556, "longitude": -7.95828}
+{"merchant_id": "M-040", "name": "Superette Atlas Meknes", "city": "Meknes", "category": "epicerie", "latitude": 33.86252, "longitude": -5.55984}
+{"merchant_id": "M-041", "name": "Superette Atlas Marrakech", "city": "Marrakech", "category": "epicerie", "latitude": 31.66695, "longitude": -8.02356}
+{"merchant_id": "M-042", "name": "Station Atlas Meknes", "city": "Meknes", "category": "carburant", "latitude": 33.84856, "longitude": -5.50477}
+{"merchant_id": "M-043", "name": "Boutique Telecom Orbit Meknes", "city": "Meknes", "category": "telecom", "latitude": 33.86013, "longitude": -5.55614}
+{"merchant_id": "M-044", "name": "Cafe Andalous Casablanca", "city": "Casablanca", "category": "restauration", "latitude": 33.53956, "longitude": -7.63958}
+{"merchant_id": "M-045", "name": "Telecom Services Plus Rabat", "city": "Rabat", "category": "telecom", "latitude": 33.99942, "longitude": -6.82194}
+{"merchant_id": "M-046", "name": "Pharmacie du Marche Agadir 2", "city": "Agadir", "category": "pharmacie", "latitude": 30.39328, "longitude": -9.61843}
+{"merchant_id": "M-047", "name": "LivrExpress.ma Tetouan", "city": "Tetouan", "category": "e-commerce", "latitude": 35.5346, "longitude": -5.38704}
+{"merchant_id": "M-048", "name": "Snack Sahara Casablanca", "city": "Casablanca", "category": "restauration", "latitude": 33.52879, "longitude": -7.58902}
+{"merchant_id": "M-049", "name": "Epicerie Al Baraka Oujda", "city": "Oujda", "category": "epicerie", "latitude": 34.70422, "longitude": -1.93788}
+{"merchant_id": "M-050", "name": "Station Oasis Casablanca", "city": "Casablanca", "category": "carburant", "latitude": 33.58099, "longitude": -7.63583}
+{"merchant_id": "M-051", "name": "LivrExpress.ma Casablanca 3", "city": "Casablanca", "category": "e-commerce", "latitude": 33.57538, "longitude": -7.54633}
+{"merchant_id": "M-052", "name": "Pharmacie Al Amal Casablanca", "city": "Casablanca", "category": "pharmacie", "latitude": 33.54966, "longitude": -7.62671}
+{"merchant_id": "M-053", "name": "Restaurant Dar Salam Fes", "city": "Fes", "category": "restauration", "latitude": 33.96903, "longitude": -4.99568}
+{"merchant_id": "M-054", "name": "Superette Nour Tanger 2", "city": "Tanger", "category": "epicerie", "latitude": 35.73082, "longitude": -5.85748}
+{"merchant_id": "M-055", "name": "Station Oasis Kenitra", "city": "Kenitra", "category": "carburant", "latitude": 34.24795, "longitude": -6.61443}
+{"merchant_id": "M-056", "name": "Pharmacie Les Oliviers Meknes", "city": "Meknes", "category": "pharmacie", "latitude": 33.94189, "longitude": -5.52399}
+{"merchant_id": "M-057", "name": "LivrExpress.ma Tanger", "city": "Tanger", "category": "e-commerce", "latitude": 35.73944, "longitude": -5.81766}
+{"merchant_id": "M-058", "name": "Epicerie Al Baraka Kenitra", "city": "Kenitra", "category": "epicerie", "latitude": 34.29997, "longitude": -6.55596}
+{"merchant_id": "M-059", "name": "Superette Atlas Casablanca", "city": "Casablanca", "category": "epicerie", "latitude": 33.59486, "longitude": -7.61944}
+{"merchant_id": "M-060", "name": "Marche Bab Doukkala Fes", "city": "Fes", "category": "epicerie", "latitude": 33.99321, "longitude": -4.96698}
+{"merchant_id": "M-061", "name": "TechStore.ma Casablanca", "city": "Casablanca", "category": "e-commerce", "latitude": 33.52751, "longitude": -7.60644}
+{"merchant_id": "M-062", "name": "Boutique Telecom Orbit Casablanca", "city": "Casablanca", "category": "telecom", "latitude": 33.59722, "longitude": -7.58463}
+{"merchant_id": "M-063", "name": "Epicerie Al Baraka Marrakech", "city": "Marrakech", "category": "epicerie", "latitude": 31.67401, "longitude": -7.962}
+{"merchant_id": "M-064", "name": "Hanout Salam Casablanca 2", "city": "Casablanca", "category": "epicerie", "latitude": 33.58135, "longitude": -7.62499}
+{"merchant_id": "M-065", "name": "Cafe Andalous Casablanca 2", "city": "Casablanca", "category": "restauration", "latitude": 33.61299, "longitude": -7.61879}
+{"merchant_id": "M-066", "name": "Mini Market Zahra Casablanca", "city": "Casablanca", "category": "epicerie", "latitude": 33.57909, "longitude": -7.55233}
+{"merchant_id": "M-067", "name": "Pharmacie Al Amal Tetouan", "city": "Tetouan", "category": "pharmacie", "latitude": 35.61496, "longitude": -5.32078}
+{"merchant_id": "M-068", "name": "Station Atlas Meknes 2", "city": "Meknes", "category": "carburant", "latitude": 33.86144, "longitude": -5.51225}
+{"merchant_id": "M-069", "name": "Pizzeria Roma Agadir", "city": "Agadir", "category": "restauration", "latitude": 30.40448, "longitude": -9.56936}
+{"merchant_id": "M-070", "name": "Station Horizon Casablanca", "city": "Casablanca", "category": "carburant", "latitude": 33.54534, "longitude": -7.55814}
+{"merchant_id": "M-071", "name": "Pizzeria Roma Marrakech", "city": "Marrakech", "category": "restauration", "latitude": 31.60179, "longitude": -7.9651}
+{"merchant_id": "M-072", "name": "Epicerie Al Baraka Rabat", "city": "Rabat", "category": "epicerie", "latitude": 34.06759, "longitude": -6.86369}
+{"merchant_id": "M-073", "name": "Boulangerie Amal Fes", "city": "Fes", "category": "restauration", "latitude": 34.06202, "longitude": -5.04627}
+{"merchant_id": "M-074", "name": "Hanout Salam Tetouan", "city": "Tetouan", "category": "epicerie", "latitude": 35.53233, "longitude": -5.35874}
+{"merchant_id": "M-075", "name": "Pharmacie du Marche Rabat", "city": "Rabat", "category": "pharmacie", "latitude": 34.03152, "longitude": -6.84046}
+{"merchant_id": "M-076", "name": "TechStore.ma Rabat", "city": "Rabat", "category": "e-commerce", "latitude": 33.97534, "longitude": -6.84799}
+{"merchant_id": "M-077", "name": "Station Oasis Marrakech", "city": "Marrakech", "category": "carburant", "latitude": 31.61592, "longitude": -8.0241}
+{"merchant_id": "M-078", "name": "Boulangerie Amal Fes 2", "city": "Fes", "category": "restauration", "latitude": 34.03444, "longitude": -5.04534}
+{"merchant_id": "M-079", "name": "Cafe Panorama Kenitra", "city": "Kenitra", "category": "restauration", "latitude": 34.24362, "longitude": -6.56048}
+{"merchant_id": "M-080", "name": "Epicerie Al Amal Tanger 2", "city": "Tanger", "category": "epicerie", "latitude": 35.80354, "longitude": -5.81627}
+{"merchant_id": "M-081", "name": "TechStore.ma Kenitra", "city": "Kenitra", "category": "e-commerce", "latitude": 34.25161, "longitude": -6.54683}
+{"merchant_id": "M-082", "name": "Mini Market Zahra Rabat 2", "city": "Rabat", "category": "epicerie", "latitude": 34.0289, "longitude": -6.82613}
+{"merchant_id": "M-083", "name": "Pizzeria Roma Marrakech 2", "city": "Marrakech", "category": "restauration", "latitude": 31.63062, "longitude": -7.95173}
+{"merchant_id": "M-084", "name": "Pharmacie Ibn Sina Tetouan", "city": "Tetouan", "category": "pharmacie", "latitude": 35.55688, "longitude": -5.35201}
+{"merchant_id": "M-085", "name": "Mini Market Zahra Tanger 2", "city": "Tanger", "category": "epicerie", "latitude": 35.73299, "longitude": -5.85296}
+{"merchant_id": "M-086", "name": "Epicerie Al Baraka Meknes", "city": "Meknes", "category": "epicerie", "latitude": 33.86798, "longitude": -5.55719}
+{"merchant_id": "M-087", "name": "Marche Bab Doukkala Meknes", "city": "Meknes", "category": "epicerie", "latitude": 33.93211, "longitude": -5.54713}
+{"merchant_id": "M-088", "name": "Cafe Panorama Agadir", "city": "Agadir", "category": "restauration", "latitude": 30.4022, "longitude": -9.58249}
+{"merchant_id": "M-089", "name": "Pharmacie Ibn Sina Casablanca", "city": "Casablanca", "category": "pharmacie", "latitude": 33.60094, "longitude": -7.61792}
+{"merchant_id": "M-090", "name": "Pharmacie du Marche Meknes", "city": "Meknes", "category": "pharmacie", "latitude": 33.84852, "longitude": -5.57978}
+{"merchant_id": "M-091", "name": "Restaurant Al Medina Meknes", "city": "Meknes", "category": "restauration", "latitude": 33.91026, "longitude": -5.50591}
+{"merchant_id": "M-092", "name": "Telecom Services Plus Tanger 2", "city": "Tanger", "category": "telecom", "latitude": 35.77077, "longitude": -5.81207}
+{"merchant_id": "M-093", "name": "Station Horizon Marrakech", "city": "Marrakech", "category": "carburant", "latitude": 31.66922, "longitude": -7.95673}
+{"merchant_id": "M-094", "name": "Superette Atlas Marrakech 2", "city": "Marrakech", "category": "epicerie", "latitude": 31.66349, "longitude": -8.00337}
+{"merchant_id": "M-095", "name": "Pizzeria Roma Agadir 2", "city": "Agadir", "category": "restauration", "latitude": 30.40526, "longitude": -9.64035}
+{"merchant_id": "M-096", "name": "Hanout Salam Rabat 2", "city": "Rabat", "category": "epicerie", "latitude": 34.0602, "longitude": -6.88354}
+{"merchant_id": "M-097", "name": "Snack Sahara Casablanca 2", "city": "Casablanca", "category": "restauration", "latitude": 33.59374, "longitude": -7.63338}
+{"merchant_id": "M-098", "name": "ModeShop.ma Marrakech", "city": "Marrakech", "category": "e-commerce", "latitude": 31.58573, "longitude": -7.94781}
+{"merchant_id": "M-099", "name": "Pharmacie Ibn Sina Rabat", "city": "Rabat", "category": "pharmacie", "latitude": 34.05657, "longitude": -6.81504}
+{"merchant_id": "M-100", "name": "Hanout Salam Rabat 3", "city": "Rabat", "category": "epicerie", "latitude": 34.00076, "longitude": -6.8526}
+{"merchant_id": "M-101", "name": "Station Oasis Oujda", "city": "Oujda", "category": "carburant", "latitude": 34.68552, "longitude": -1.93411}
+{"merchant_id": "M-102", "name": "Cafe Panorama Marrakech", "city": "Marrakech", "category": "restauration", "latitude": 31.65192, "longitude": -7.94705}
+{"merchant_id": "M-103", "name": "Recharge Express Kenitra", "city": "Kenitra", "category": "telecom", "latitude": 34.30169, "longitude": -6.57101}
+{"merchant_id": "M-104", "name": "Marche Bab Doukkala Fes 2", "city": "Fes", "category": "epicerie", "latitude": 33.98167, "longitude": -5.01163}
+{"merchant_id": "M-105", "name": "Pizzeria Roma Casablanca", "city": "Casablanca", "category": "restauration", "latitude": 33.56857, "longitude": -7.60605}
+{"merchant_id": "M-106", "name": "Mini Market Zahra Oujda", "city": "Oujda", "category": "epicerie", "latitude": 34.67886, "longitude": -1.87791}
+{"merchant_id": "M-107", "name": "Pharmacie Ibn Sina Marrakech 2", "city": "Marrakech", "category": "pharmacie", "latitude": 31.67949, "longitude": -7.9961}
+{"merchant_id": "M-108", "name": "Pharmacie Ibn Sina Fes", "city": "Fes", "category": "pharmacie", "latitude": 34.04352, "longitude": -4.96284}
+{"merchant_id": "M-109", "name": "Superette Atlas Casablanca 2", "city": "Casablanca", "category": "epicerie", "latitude": 33.54695, "longitude": -7.59244}
+{"merchant_id": "M-110", "name": "Telecom Services Plus Casablanca", "city": "Casablanca", "category": "telecom", "latitude": 33.59305, "longitude": -7.56311}
+{"merchant_id": "M-111", "name": "DealsMaroc.ma Casablanca", "city": "Casablanca", "category": "e-commerce", "latitude": 33.59494, "longitude": -7.56202}
+{"merchant_id": "M-112", "name": "Cafe Andalous Casablanca 3", "city": "Casablanca", "category": "restauration", "latitude": 33.61599, "longitude": -7.58222}
+{"merchant_id": "M-113", "name": "Pizzeria Roma Kenitra", "city": "Kenitra", "category": "restauration", "latitude": 34.2186, "longitude": -6.56114}
+{"merchant_id": "M-114", "name": "Mini Market Zahra Fes", "city": "Fes", "category": "epicerie", "latitude": 33.99826, "longitude": -4.98937}
+{"merchant_id": "M-115", "name": "Pharmacie Les Oliviers Meknes 2", "city": "Meknes", "category": "pharmacie", "latitude": 33.92176, "longitude": -5.56998}
+{"merchant_id": "M-116", "name": "Boulangerie Amal Marrakech", "city": "Marrakech", "category": "restauration", "latitude": 31.58077, "longitude": -7.98909}
+{"merchant_id": "M-117", "name": "Boulangerie Amal Marrakech 2", "city": "Marrakech", "category": "restauration", "latitude": 31.64306, "longitude": -7.94823}
+{"merchant_id": "M-118", "name": "Tacos House Fes", "city": "Fes", "category": "restauration", "latitude": 34.02969, "longitude": -4.96584}
+{"merchant_id": "M-119", "name": "Tacos House Agadir", "city": "Agadir", "category": "restauration", "latitude": 30.41003, "longitude": -9.62355}
+{"merchant_id": "M-120", "name": "Marche Bab Doukkala Kenitra", "city": "Kenitra", "category": "epicerie", "latitude": 34.23539, "longitude": -6.58373}
+{"merchant_id": "M-121", "name": "Cafe Andalous Tanger", "city": "Tanger", "category": "restauration", "latitude": 35.75893, "longitude": -5.8515}
+{"merchant_id": "M-122", "name": "Tacos House Marrakech", "city": "Marrakech", "category": "restauration", "latitude": 31.61353, "longitude": -7.94307}
+{"merchant_id": "M-123", "name": "Epicerie Al Baraka Fes 2", "city": "Fes", "category": "epicerie", "latitude": 34.01976, "longitude": -5.03869}
+{"merchant_id": "M-124", "name": "Pizzeria Roma Casablanca 2", "city": "Casablanca", "category": "restauration", "latitude": 33.59216, "longitude": -7.57521}
+{"merchant_id": "M-125", "name": "Pharmacie Ibn Sina Marrakech 3", "city": "Marrakech", "category": "pharmacie", "latitude": 31.60892, "longitude": -7.99066}
+{"merchant_id": "M-126", "name": "TechStore.ma Casablanca 2", "city": "Casablanca", "category": "e-commerce", "latitude": 33.57043, "longitude": -7.58671}
+{"merchant_id": "M-127", "name": "Pharmacie Centrale Marrakech", "city": "Marrakech", "category": "pharmacie", "latitude": 31.61468, "longitude": -7.98573}
+{"merchant_id": "M-128", "name": "Epicerie Al Amal Rabat", "city": "Rabat", "category": "epicerie", "latitude": 33.99016, "longitude": -6.87964}
+{"merchant_id": "M-129", "name": "Pharmacie Al Amal Tanger 2", "city": "Tanger", "category": "pharmacie", "latitude": 35.72865, "longitude": -5.81014}
+{"merchant_id": "M-130", "name": "LivrExpress.ma Rabat", "city": "Rabat", "category": "e-commerce", "latitude": 34.03058, "longitude": -6.79355}
+{"merchant_id": "M-131", "name": "Hanout Salam Meknes", "city": "Meknes", "category": "epicerie", "latitude": 33.86144, "longitude": -5.60329}
+{"merchant_id": "M-132", "name": "Epicerie Al Baraka Tanger", "city": "Tanger", "category": "epicerie", "latitude": 35.76484, "longitude": -5.81426}
+{"merchant_id": "M-133", "name": "Station Horizon Casablanca 2", "city": "Casablanca", "category": "carburant", "latitude": 33.53336, "longitude": -7.63857}
+{"merchant_id": "M-134", "name": "Boulangerie Amal Rabat", "city": "Rabat", "category": "restauration", "latitude": 33.98934, "longitude": -6.88646}
+{"merchant_id": "M-135", "name": "Restaurant Dar Salam Kenitra", "city": "Kenitra", "category": "restauration", "latitude": 34.25107, "longitude": -6.62279}
+{"merchant_id": "M-136", "name": "Superette Atlas Fes", "city": "Fes", "category": "epicerie", "latitude": 34.04921, "longitude": -4.96289}
+{"merchant_id": "M-137", "name": "Superette Nour Casablanca 2", "city": "Casablanca", "category": "epicerie", "latitude": 33.59954, "longitude": -7.57917}
+{"merchant_id": "M-138", "name": "Superette Nour Meknes", "city": "Meknes", "category": "epicerie", "latitude": 33.88154, "longitude": -5.51385}
+{"merchant_id": "M-139", "name": "ModeShop.ma Rabat", "city": "Rabat", "category": "e-commerce", "latitude": 34.00144, "longitude": -6.8295}
+{"merchant_id": "M-140", "name": "Pharmacie Al Amal Tanger 3", "city": "Tanger", "category": "pharmacie", "latitude": 35.77205, "longitude": -5.85754}
+{"merchant_id": "M-141", "name": "Superette Nour Casablanca 3", "city": "Casablanca", "category": "epicerie", "latitude": 33.53061, "longitude": -7.63953}
+{"merchant_id": "M-142", "name": "TechStore.ma Marrakech", "city": "Marrakech", "category": "e-commerce", "latitude": 31.58276, "longitude": -8.00229}
+{"merchant_id": "M-143", "name": "Station Atlas Rabat", "city": "Rabat", "category": "carburant", "latitude": 34.03964, "longitude": -6.79921}
+{"merchant_id": "M-144", "name": "DealsMaroc.ma Agadir", "city": "Agadir", "category": "e-commerce", "latitude": 30.45819, "longitude": -9.62832}
+{"merchant_id": "M-145", "name": "Superette Atlas Casablanca 3", "city": "Casablanca", "category": "epicerie", "latitude": 33.61394, "longitude": -7.55714}
+{"merchant_id": "M-146", "name": "Hanout Salam Casablanca 3", "city": "Casablanca", "category": "epicerie", "latitude": 33.5826, "longitude": -7.55738}
+{"merchant_id": "M-147", "name": "Restaurant Al Medina Kenitra", "city": "Kenitra", "category": "restauration", "latitude": 34.27987, "longitude": -6.56023}
+{"merchant_id": "M-148", "name": "Restaurant Al Medina Kenitra 2", "city": "Kenitra", "category": "restauration", "latitude": 34.25478, "longitude": -6.5704}
+{"merchant_id": "M-149", "name": "Pharmacie Les Oliviers Oujda", "city": "Oujda", "category": "pharmacie", "latitude": 34.66174, "longitude": -1.95227}
+{"merchant_id": "M-150", "name": "Station Atlas Tetouan", "city": "Tetouan", "category": "carburant", "latitude": 35.62846, "longitude": -5.35117}
+{"merchant_id": "M-151", "name": "Mini Market Zahra Rabat 3", "city": "Rabat", "category": "epicerie", "latitude": 33.98842, "longitude": -6.8397}
+{"merchant_id": "M-152", "name": "Superette Nour Marrakech", "city": "Marrakech", "category": "epicerie", "latitude": 31.62309, "longitude": -7.94968}
+{"merchant_id": "M-153", "name": "Cafe Panorama Tetouan", "city": "Tetouan", "category": "restauration", "latitude": 35.56183, "longitude": -5.35139}
+{"merchant_id": "M-154", "name": "Restaurant Al Medina Oujda 2", "city": "Oujda", "category": "restauration", "latitude": 34.66552, "longitude": -1.86688}
+{"merchant_id": "M-155", "name": "ModeShop.ma Meknes", "city": "Meknes", "category": "e-commerce", "latitude": 33.85231, "longitude": -5.57946}
+{"merchant_id": "M-156", "name": "Pharmacie Les Oliviers Casablanca 2", "city": "Casablanca", "category": "pharmacie", "latitude": 33.60559, "longitude": -7.63968}
+{"merchant_id": "M-157", "name": "Cafe Andalous Oujda", "city": "Oujda", "category": "restauration", "latitude": 34.65546, "longitude": -1.92522}
+{"merchant_id": "M-158", "name": "Shop Maroc Online Agadir", "city": "Agadir", "category": "e-commerce", "latitude": 30.39816, "longitude": -9.59318}
+{"merchant_id": "M-159", "name": "Restaurant Al Medina Kenitra 3", "city": "Kenitra", "category": "restauration", "latitude": 34.22314, "longitude": -6.53289}
+{"merchant_id": "M-160", "name": "Superette Atlas Tanger", "city": "Tanger", "category": "epicerie", "latitude": 35.74058, "longitude": -5.88263}
+{"merchant_id": "M-161", "name": "Mini Market Zahra Marrakech", "city": "Marrakech", "category": "epicerie", "latitude": 31.67079, "longitude": -7.98496}
+{"merchant_id": "M-162", "name": "Station Horizon Casablanca 3", "city": "Casablanca", "category": "carburant", "latitude": 33.61637, "longitude": -7.61061}
+{"merchant_id": "M-163", "name": "Restaurant Al Medina Fes 2", "city": "Fes", "category": "restauration", "latitude": 34.06612, "longitude": -5.03343}
+{"merchant_id": "M-164", "name": "Snack Sahara Tanger", "city": "Tanger", "category": "restauration", "latitude": 35.7959, "longitude": -5.85638}
+{"merchant_id": "M-165", "name": "Tacos House Meknes", "city": "Meknes", "category": "restauration", "latitude": 33.92555, "longitude": -5.57642}
+{"merchant_id": "M-166", "name": "DealsMaroc.ma Rabat", "city": "Rabat", "category": "e-commerce", "latitude": 34.01986, "longitude": -6.87674}
+{"merchant_id": "M-167", "name": "Cafe Panorama Tanger", "city": "Tanger", "category": "restauration", "latitude": 35.75503, "longitude": -5.85182}
+{"merchant_id": "M-168", "name": "Pharmacie Les Oliviers Casablanca 3", "city": "Casablanca", "category": "pharmacie", "latitude": 33.5614, "longitude": -7.5542}
+{"merchant_id": "M-169", "name": "Restaurant Al Medina Marrakech", "city": "Marrakech", "category": "restauration", "latitude": 31.65002, "longitude": -7.94996}
+{"merchant_id": "M-170", "name": "DealsMaroc.ma Rabat 2", "city": "Rabat", "category": "e-commerce", "latitude": 34.06898, "longitude": -6.84207}
+{"merchant_id": "M-171", "name": "Boulangerie Amal Casablanca", "city": "Casablanca", "category": "restauration", "latitude": 33.61007, "longitude": -7.55238}
+{"merchant_id": "M-172", "name": "ModeShop.ma Marrakech 2", "city": "Marrakech", "category": "e-commerce", "latitude": 31.58103, "longitude": -8.01668}
+{"merchant_id": "M-173", "name": "Recharge Express Oujda", "city": "Oujda", "category": "telecom", "latitude": 34.68365, "longitude": -1.86448}
+{"merchant_id": "M-174", "name": "Pharmacie Ibn Sina Rabat 2", "city": "Rabat", "category": "pharmacie", "latitude": 34.05608, "longitude": -6.80637}
+{"merchant_id": "M-175", "name": "Boulangerie Amal Oujda", "city": "Oujda", "category": "restauration", "latitude": 34.69938, "longitude": -1.87266}
+{"merchant_id": "M-176", "name": "LivrExpress.ma Marrakech", "city": "Marrakech", "category": "e-commerce", "latitude": 31.58634, "longitude": -7.96798}
+{"merchant_id": "M-177", "name": "Recharge Express Kenitra 2", "city": "Kenitra", "category": "telecom", "latitude": 34.2544, "longitude": -6.62036}
+{"merchant_id": "M-178", "name": "Station Horizon Fes", "city": "Fes", "category": "carburant", "latitude": 33.98474, "longitude": -5.02785}
+{"merchant_id": "M-179", "name": "Cafe Andalous Casablanca 4", "city": "Casablanca", "category": "restauration", "latitude": 33.55244, "longitude": -7.60232}
+{"merchant_id": "M-180", "name": "LivrExpress.ma Casablanca 4", "city": "Casablanca", "category": "e-commerce", "latitude": 33.59128, "longitude": -7.62179}
+{"merchant_id": "M-181", "name": "ModeShop.ma Casablanca", "city": "Casablanca", "category": "e-commerce", "latitude": 33.58507, "longitude": -7.61572}
+{"merchant_id": "M-182", "name": "Marche Bab Doukkala Kenitra 2", "city": "Kenitra", "category": "epicerie", "latitude": 34.27479, "longitude": -6.58424}
+{"merchant_id": "M-183", "name": "Station Horizon Fes 2", "city": "Fes", "category": "carburant", "latitude": 34.05822, "longitude": -4.99004}
+{"merchant_id": "M-184", "name": "Boulangerie Amal Casablanca 2", "city": "Casablanca", "category": "restauration", "latitude": 33.62187, "longitude": -7.60988}
+{"merchant_id": "M-185", "name": "Pharmacie du Marche Tetouan", "city": "Tetouan", "category": "pharmacie", "latitude": 35.61303, "longitude": -5.39848}
+{"merchant_id": "M-186", "name": "Pizzeria Roma Rabat", "city": "Rabat", "category": "restauration", "latitude": 34.00904, "longitude": -6.8557}
+{"merchant_id": "M-187", "name": "Pharmacie Ibn Sina Rabat 3", "city": "Rabat", "category": "pharmacie", "latitude": 34.06869, "longitude": -6.82578}
+{"merchant_id": "M-188", "name": "DealsMaroc.ma Rabat 3", "city": "Rabat", "category": "e-commerce", "latitude": 34.04873, "longitude": -6.79424}
+{"merchant_id": "M-189", "name": "Pharmacie Centrale Kenitra", "city": "Kenitra", "category": "pharmacie", "latitude": 34.28857, "longitude": -6.60719}
+{"merchant_id": "M-190", "name": "Superette Atlas Meknes 2", "city": "Meknes", "category": "epicerie", "latitude": 33.90559, "longitude": -5.53692}
+{"merchant_id": "M-191", "name": "MarocMarket.ma Agadir", "city": "Agadir", "category": "e-commerce", "latitude": 30.44062, "longitude": -9.55776}
+{"merchant_id": "M-192", "name": "Restaurant Al Medina Fes 3", "city": "Fes", "category": "restauration", "latitude": 33.97144, "longitude": -5.02131}
+{"merchant_id": "M-193", "name": "Point Mobile Atlas Casablanca 2", "city": "Casablanca", "category": "telecom", "latitude": 33.59785, "longitude": -7.62224}
+{"merchant_id": "M-194", "name": "TechStore.ma Casablanca 3", "city": "Casablanca", "category": "e-commerce", "latitude": 33.57619, "longitude": -7.54845}
+{"merchant_id": "M-195", "name": "Mini Market Zahra Meknes 2", "city": "Meknes", "category": "epicerie", "latitude": 33.93792, "longitude": -5.50796}
+{"merchant_id": "M-196", "name": "Station Atlas Rabat 2", "city": "Rabat", "category": "carburant", "latitude": 34.01773, "longitude": -6.88407}
+{"merchant_id": "M-197", "name": "Epicerie Al Amal Agadir", "city": "Agadir", "category": "epicerie", "latitude": 30.45022, "longitude": -9.55011}
+{"merchant_id": "M-198", "name": "Station Sahara Tetouan", "city": "Tetouan", "category": "carburant", "latitude": 35.53753, "longitude": -5.37894}
+{"merchant_id": "M-199", "name": "Hanout Salam Rabat 4", "city": "Rabat", "category": "epicerie", "latitude": 34.03818, "longitude": -6.82437}
+{"merchant_id": "M-200", "name": "Station Sahara Tanger", "city": "Tanger", "category": "carburant", "latitude": 35.72033, "longitude": -5.86062}
+{"merchant_id": "M-201", "name": "Station Sahara Casablanca 2", "city": "Casablanca", "category": "carburant", "latitude": 33.61463, "longitude": -7.61766}
+{"merchant_id": "M-202", "name": "Station Sahara Casablanca 3", "city": "Casablanca", "category": "carburant", "latitude": 33.58802, "longitude": -7.62813}
+{"merchant_id": "M-203", "name": "Marche Bab Doukkala Casablanca", "city": "Casablanca", "category": "epicerie", "latitude": 33.53471, "longitude": -7.61632}
+{"merchant_id": "M-204", "name": "Boulangerie Amal Tanger", "city": "Tanger", "category": "restauration", "latitude": 35.77655, "longitude": -5.80969}
+{"merchant_id": "M-205", "name": "Snack Sahara Kenitra", "city": "Kenitra", "category": "restauration", "latitude": 34.29954, "longitude": -6.56471}
+{"merchant_id": "M-206", "name": "TechStore.ma Meknes", "city": "Meknes", "category": "e-commerce", "latitude": 33.84677, "longitude": -5.56765}
+{"merchant_id": "M-207", "name": "Point Mobile Atlas Marrakech 2", "city": "Marrakech", "category": "telecom", "latitude": 31.58944, "longitude": -7.96253}
+{"merchant_id": "M-208", "name": "Point Mobile Atlas Tanger", "city": "Tanger", "category": "telecom", "latitude": 35.71556, "longitude": -5.85641}
+{"merchant_id": "M-209", "name": "Telecom Services Plus Tetouan", "city": "Tetouan", "category": "telecom", "latitude": 35.53767, "longitude": -5.39719}
+{"merchant_id": "M-210", "name": "Recharge Express Fes", "city": "Fes", "category": "telecom", "latitude": 34.04678, "longitude": -5.03344}
+{"merchant_id": "M-211", "name": "Shop Maroc Online Casablanca", "city": "Casablanca", "category": "e-commerce", "latitude": 33.60608, "longitude": -7.58438}
+{"merchant_id": "M-212", "name": "Station Oasis Tanger", "city": "Tanger", "category": "carburant", "latitude": 35.74236, "longitude": -5.86924}
+{"merchant_id": "M-213", "name": "Mini Market Zahra Kenitra", "city": "Kenitra", "category": "epicerie", "latitude": 34.3094, "longitude": -6.53145}
+{"merchant_id": "M-214", "name": "Pharmacie Ibn Sina Tanger", "city": "Tanger", "category": "pharmacie", "latitude": 35.77561, "longitude": -5.88142}
+{"merchant_id": "M-215", "name": "Pharmacie Al Amal Casablanca 2", "city": "Casablanca", "category": "pharmacie", "latitude": 33.58199, "longitude": -7.63822}
+{"merchant_id": "M-216", "name": "Marche Bab Doukkala Rabat", "city": "Rabat", "category": "epicerie", "latitude": 34.02351, "longitude": -6.81703}
+{"merchant_id": "M-217", "name": "Pharmacie Les Oliviers Marrakech", "city": "Marrakech", "category": "pharmacie", "latitude": 31.63887, "longitude": -7.9859}
+{"merchant_id": "M-218", "name": "DealsMaroc.ma Casablanca 2", "city": "Casablanca", "category": "e-commerce", "latitude": 33.60142, "longitude": -7.5531}
+{"merchant_id": "M-219", "name": "Cafe Andalous Tanger 2", "city": "Tanger", "category": "restauration", "latitude": 35.71558, "longitude": -5.8361}
+{"merchant_id": "M-220", "name": "Pharmacie du Marche Marrakech", "city": "Marrakech", "category": "pharmacie", "latitude": 31.65074, "longitude": -7.98674}
+{"merchant_id": "M-221", "name": "Snack Sahara Oujda", "city": "Oujda", "category": "restauration", "latitude": 34.64327, "longitude": -1.9339}
+{"merchant_id": "M-222", "name": "TechStore.ma Fes", "city": "Fes", "category": "e-commerce", "latitude": 34.00619, "longitude": -4.99806}
+{"merchant_id": "M-223", "name": "Cafe Panorama Rabat", "city": "Rabat", "category": "restauration", "latitude": 33.98082, "longitude": -6.82142}
+{"merchant_id": "M-224", "name": "LivrExpress.ma Oujda", "city": "Oujda", "category": "e-commerce", "latitude": 34.70878, "longitude": -1.9399}
+{"merchant_id": "M-225", "name": "Hanout Salam Marrakech", "city": "Marrakech", "category": "epicerie", "latitude": 31.66224, "longitude": -7.99123}
+{"merchant_id": "M-226", "name": "Boulangerie Amal Agadir", "city": "Agadir", "category": "restauration", "latitude": 30.44431, "longitude": -9.61067}
+{"merchant_id": "M-227", "name": "Recharge Express Casablanca", "city": "Casablanca", "category": "telecom", "latitude": 33.53222, "longitude": -7.63126}
+{"merchant_id": "M-228", "name": "Pharmacie Centrale Marrakech 2", "city": "Marrakech", "category": "pharmacie", "latitude": 31.66068, "longitude": -7.97546}
+{"merchant_id": "M-229", "name": "TechStore.ma Tanger", "city": "Tanger", "category": "e-commerce", "latitude": 35.7765, "longitude": -5.84292}
+{"merchant_id": "M-230", "name": "Telecom Services Plus Oujda", "city": "Oujda", "category": "telecom", "latitude": 34.72351, "longitude": -1.88929}
+{"merchant_id": "M-231", "name": "TechStore.ma Tetouan", "city": "Tetouan", "category": "e-commerce", "latitude": 35.53886, "longitude": -5.36766}
+{"merchant_id": "M-232", "name": "Restaurant Dar Salam Casablanca", "city": "Casablanca", "category": "restauration", "latitude": 33.55811, "longitude": -7.58417}
+{"merchant_id": "M-233", "name": "Superette Atlas Casablanca 4", "city": "Casablanca", "category": "epicerie", "latitude": 33.60382, "longitude": -7.55528}
+{"merchant_id": "M-234", "name": "Station Atlas Tetouan 2", "city": "Tetouan", "category": "carburant", "latitude": 35.5894, "longitude": -5.35262}
+{"merchant_id": "M-235", "name": "Hanout Salam Fes 2", "city": "Fes", "category": "epicerie", "latitude": 34.03837, "longitude": -5.0269}
+{"merchant_id": "M-236", "name": "Mini Market Zahra Rabat 4", "city": "Rabat", "category": "epicerie", "latitude": 33.98523, "longitude": -6.82587}
+{"merchant_id": "M-237", "name": "Pharmacie Ibn Sina Casablanca 2", "city": "Casablanca", "category": "pharmacie", "latitude": 33.53228, "longitude": -7.58675}
+{"merchant_id": "M-238", "name": "Snack Sahara Rabat", "city": "Rabat", "category": "restauration", "latitude": 34.00791, "longitude": -6.81944}
+{"merchant_id": "M-239", "name": "Shop Maroc Online Agadir 2", "city": "Agadir", "category": "e-commerce", "latitude": 30.46613, "longitude": -9.63254}
+{"merchant_id": "M-240", "name": "Epicerie Al Baraka Agadir 2", "city": "Agadir", "category": "epicerie", "latitude": 30.40501, "longitude": -9.58191}
+{"merchant_id": "M-241", "name": "Tacos House Marrakech 2", "city": "Marrakech", "category": "restauration", "latitude": 31.60106, "longitude": -7.97987}
+{"merchant_id": "M-242", "name": "Epicerie Al Amal Rabat 2", "city": "Rabat", "category": "epicerie", "latitude": 34.03875, "longitude": -6.84294}
+{"merchant_id": "M-243", "name": "Marche Bab Doukkala Fes 3", "city": "Fes", "category": "epicerie", "latitude": 34.06654, "longitude": -5.05232}
+{"merchant_id": "M-244", "name": "Boutique Telecom Orbit Casablanca 2", "city": "Casablanca", "category": "telecom", "latitude": 33.59952, "longitude": -7.61086}
+{"merchant_id": "M-245", "name": "Cafe Panorama Casablanca", "city": "Casablanca", "category": "restauration", "latitude": 33.54067, "longitude": -7.60178}
+{"merchant_id": "M-246", "name": "Boulangerie Amal Fes 3", "city": "Fes", "category": "restauration", "latitude": 33.97531, "longitude": -4.97162}
+{"merchant_id": "M-247", "name": "Epicerie Al Baraka Casablanca", "city": "Casablanca", "category": "epicerie", "latitude": 33.60931, "longitude": -7.58222}
+{"merchant_id": "M-248", "name": "Pharmacie du Marche Tanger", "city": "Tanger", "category": "pharmacie", "latitude": 35.73845, "longitude": -5.8435}
+{"merchant_id": "M-249", "name": "Superette Nour Tetouan", "city": "Tetouan", "category": "epicerie", "latitude": 35.57451, "longitude": -5.34944}
+{"merchant_id": "M-250", "name": "Restaurant Dar Salam Rabat", "city": "Rabat", "category": "restauration", "latitude": 33.99523, "longitude": -6.83271}
+{"merchant_id": "M-251", "name": "Tacos House Tanger", "city": "Tanger", "category": "restauration", "latitude": 35.78408, "longitude": -5.86184}
+{"merchant_id": "M-252", "name": "Epicerie Al Amal Agadir 2", "city": "Agadir", "category": "epicerie", "latitude": 30.3892, "longitude": -9.5971}
+{"merchant_id": "M-253", "name": "Snack Sahara Kenitra 2", "city": "Kenitra", "category": "restauration", "latitude": 34.23463, "longitude": -6.61556}
+{"merchant_id": "M-254", "name": "DealsMaroc.ma Casablanca 3", "city": "Casablanca", "category": "e-commerce", "latitude": 33.53064, "longitude": -7.54467}
+{"merchant_id": "M-255", "name": "Restaurant Al Medina Fes 4", "city": "Fes", "category": "restauration", "latitude": 34.03621, "longitude": -4.9696}
+{"merchant_id": "M-256", "name": "Point Mobile Atlas Fes", "city": "Fes", "category": "telecom", "latitude": 34.05452, "longitude": -4.99508}
+{"merchant_id": "M-257", "name": "Marche Bab Doukkala Casablanca 2", "city": "Casablanca", "category": "epicerie", "latitude": 33.58624, "longitude": -7.56017}
+{"merchant_id": "M-258", "name": "Restaurant Dar Salam Tanger", "city": "Tanger", "category": "restauration", "latitude": 35.74054, "longitude": -5.83881}
+{"merchant_id": "M-259", "name": "Station Atlas Casablanca", "city": "Casablanca", "category": "carburant", "latitude": 33.58757, "longitude": -7.54206}
+{"merchant_id": "M-260", "name": "ModeShop.ma Casablanca 2", "city": "Casablanca", "category": "e-commerce", "latitude": 33.56937, "longitude": -7.58437}
+{"merchant_id": "M-261", "name": "Station Horizon Meknes", "city": "Meknes", "category": "carburant", "latitude": 33.9344, "longitude": -5.54753}
+{"merchant_id": "M-262", "name": "LivrExpress.ma Casablanca 5", "city": "Casablanca", "category": "e-commerce", "latitude": 33.53819, "longitude": -7.63361}
+{"merchant_id": "M-263", "name": "Station Sahara Casablanca 4", "city": "Casablanca", "category": "carburant", "latitude": 33.62134, "longitude": -7.63137}
+{"merchant_id": "M-264", "name": "Epicerie Al Amal Fes", "city": "Fes", "category": "epicerie", "latitude": 34.01188, "longitude": -5.01386}
+{"merchant_id": "M-265", "name": "Hanout Salam Tanger", "city": "Tanger", "category": "epicerie", "latitude": 35.80129, "longitude": -5.84526}
+{"merchant_id": "M-266", "name": "Shop Maroc Online Agadir 3", "city": "Agadir", "category": "e-commerce", "latitude": 30.45672, "longitude": -9.58337}
+{"merchant_id": "M-267", "name": "Epicerie Al Amal Casablanca 3", "city": "Casablanca", "category": "epicerie", "latitude": 33.56176, "longitude": -7.6146}
+{"merchant_id": "M-268", "name": "Boutique Telecom Orbit Oujda", "city": "Oujda", "category": "telecom", "latitude": 34.67004, "longitude": -1.90313}
+{"merchant_id": "M-269", "name": "Cafe Panorama Casablanca 2", "city": "Casablanca", "category": "restauration", "latitude": 33.536, "longitude": -7.56892}
+{"merchant_id": "M-270", "name": "DealsMaroc.ma Casablanca 4", "city": "Casablanca", "category": "e-commerce", "latitude": 33.60227, "longitude": -7.55848}
+{"merchant_id": "M-271", "name": "Station Atlas Fes", "city": "Fes", "category": "carburant", "latitude": 34.0327, "longitude": -5.01546}
+{"merchant_id": "M-272", "name": "Snack Sahara Rabat 2", "city": "Rabat", "category": "restauration", "latitude": 34.06602, "longitude": -6.85743}
+{"merchant_id": "M-273", "name": "Superette Atlas Agadir", "city": "Agadir", "category": "epicerie", "latitude": 30.39329, "longitude": -9.61852}
+{"merchant_id": "M-274", "name": "Cafe Andalous Agadir", "city": "Agadir", "category": "restauration", "latitude": 30.44399, "longitude": -9.56046}
+{"merchant_id": "M-275", "name": "MarocMarket.ma Tanger", "city": "Tanger", "category": "e-commerce", "latitude": 35.72572, "longitude": -5.80087}
+{"merchant_id": "M-276", "name": "Station Oasis Agadir", "city": "Agadir", "category": "carburant", "latitude": 30.44992, "longitude": -9.64373}
+{"merchant_id": "M-277", "name": "Pharmacie du Marche Rabat 2", "city": "Rabat", "category": "pharmacie", "latitude": 34.03196, "longitude": -6.81636}
+{"merchant_id": "M-278", "name": "Superette Atlas Agadir 2", "city": "Agadir", "category": "epicerie", "latitude": 30.40875, "longitude": -9.56724}
+{"merchant_id": "M-279", "name": "Station Sahara Marrakech", "city": "Marrakech", "category": "carburant", "latitude": 31.64733, "longitude": -7.97406}
+{"merchant_id": "M-280", "name": "Pharmacie du Marche Marrakech 2", "city": "Marrakech", "category": "pharmacie", "latitude": 31.62979, "longitude": -7.98923}
+{"merchant_id": "M-281", "name": "Superette Nour Casablanca 4", "city": "Casablanca", "category": "epicerie", "latitude": 33.53694, "longitude": -7.6148}
+{"merchant_id": "M-282", "name": "Station Atlas Fes 2", "city": "Fes", "category": "carburant", "latitude": 34.03924, "longitude": -5.00621}
+{"merchant_id": "M-283", "name": "Superette Atlas Casablanca 5", "city": "Casablanca", "category": "epicerie", "latitude": 33.55038, "longitude": -7.54927}
+{"merchant_id": "M-284", "name": "Pizzeria Roma Casablanca 3", "city": "Casablanca", "category": "restauration", "latitude": 33.60477, "longitude": -7.55134}
+{"merchant_id": "M-285", "name": "Cafe Panorama Kenitra 2", "city": "Kenitra", "category": "restauration", "latitude": 34.2612, "longitude": -6.60662}
+{"merchant_id": "M-286", "name": "Cafe Andalous Tetouan", "city": "Tetouan", "category": "restauration", "latitude": 35.56037, "longitude": -5.40849}
+{"merchant_id": "M-287", "name": "Snack Sahara Agadir", "city": "Agadir", "category": "restauration", "latitude": 30.39156, "longitude": -9.61941}
+{"merchant_id": "M-288", "name": "Pharmacie Al Amal Meknes", "city": "Meknes", "category": "pharmacie", "latitude": 33.91938, "longitude": -5.55779}
+{"merchant_id": "M-289", "name": "Recharge Express Tanger", "city": "Tanger", "category": "telecom", "latitude": 35.73509, "longitude": -5.8005}
+{"merchant_id": "M-290", "name": "Pharmacie Les Oliviers Tanger", "city": "Tanger", "category": "pharmacie", "latitude": 35.75183, "longitude": -5.80638}
+{"merchant_id": "M-291", "name": "Superette Atlas Casablanca 6", "city": "Casablanca", "category": "epicerie", "latitude": 33.56508, "longitude": -7.56041}
+{"merchant_id": "M-292", "name": "Marche Bab Doukkala Marrakech", "city": "Marrakech", "category": "epicerie", "latitude": 31.63917, "longitude": -8.02946}
+{"merchant_id": "M-293", "name": "Superette Atlas Marrakech 3", "city": "Marrakech", "category": "epicerie", "latitude": 31.60863, "longitude": -8.03094}
+{"merchant_id": "M-294", "name": "MarocMarket.ma Rabat 2", "city": "Rabat", "category": "e-commerce", "latitude": 34.03734, "longitude": -6.88304}
+{"merchant_id": "M-295", "name": "Superette Nour Tetouan 2", "city": "Tetouan", "category": "epicerie", "latitude": 35.58291, "longitude": -5.33976}
+{"merchant_id": "M-296", "name": "Mini Market Zahra Marrakech 2", "city": "Marrakech", "category": "epicerie", "latitude": 31.62651, "longitude": -7.96753}
+{"merchant_id": "M-297", "name": "Epicerie Al Baraka Tetouan", "city": "Tetouan", "category": "epicerie", "latitude": 35.56421, "longitude": -5.41164}
+{"merchant_id": "M-298", "name": "Shop Maroc Online Casablanca 2", "city": "Casablanca", "category": "e-commerce", "latitude": 33.60025, "longitude": -7.56628}
+{"merchant_id": "M-299", "name": "Superette Nour Rabat", "city": "Rabat", "category": "epicerie", "latitude": 34.00475, "longitude": -6.82732}
+{"merchant_id": "M-300", "name": "Pharmacie du Marche Meknes 2", "city": "Meknes", "category": "pharmacie", "latitude": 33.90667, "longitude": -5.52355}
