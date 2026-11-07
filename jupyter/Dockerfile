@@ -4,3 +4,4 @@ RUN apt-get update && apt-get install -y python3-pip && rm -rf /var/lib/apt/list
 RUN pip3 install --no-cache-dir jupyterlab pyspark==3.5.3 delta-spark==3.2.0 \
     graphframes pandas matplotlib networkx
 WORKDIR /home/work
+RUN pip3 install --no-cache-dir kafka-python boto3
